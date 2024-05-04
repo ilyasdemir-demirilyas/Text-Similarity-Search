@@ -57,8 +57,11 @@ streamlit run Search_web_page.py
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
+![Resim Açıklaması](app_screen.png)
+
+
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
 
 Chroma is an AI-native open-source vector database focused on developer productivity and happiness. Chroma is licensed under the Apache 2.0 License.
 ```
