@@ -57,7 +57,7 @@ streamlit run Search_web_page.py
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
-![Resim Açıklaması](app_screen.png)
+![app_screen](app_screen.png)
 
 
 ### License
