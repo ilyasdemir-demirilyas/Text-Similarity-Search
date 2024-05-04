@@ -22,7 +22,7 @@ streamlit==1.34.0
 langchain-community==0.0.36
 langchain-openai==0.1.6
 langchain-text-splitters==0.0.1
-langchain-chroma==0.1.0
+langchain-chroma
 ```
 
 ## Usage
