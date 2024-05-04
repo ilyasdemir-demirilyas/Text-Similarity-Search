@@ -6,8 +6,18 @@ from langchain_chroma import Chroma
 import streamlit as st
 import tempfile
 
+# Code Description: English
+# This code is a Streamlit application that allows users to upload a text file and perform a similarity search by entering a query.
 
-#Kod Açıklaması :
+# The code includes TextProcessor and VectorSearch classes. The TextProcessor class is used to process the uploaded text file and write it to a temporary file. The VectorSearch class takes the processed text and uses OpenAI Embeddings to perform a similarity search based on a specific query.
+
+# The code also provides a Streamlit interface. Users can upload a text file and enter a query. When they click the "Search" button, a similarity search is performed with their queries and the results are displayed on the screen.
+
+# The code provides explanations and error messages for usage to guide and inform the user.
+
+
+
+#Kod Açıklaması : Türkçe 
 #Bu kod, kullanıcının bir metin dosyası yükleyerek ve bir sorgu girerek benzerlik araması yapmasını sağlayan bir
 #Streamlit uygulamasıdır.
 
@@ -20,14 +30,7 @@ import tempfile
 
 #Kodun kullanımıyla ilgili açıklamalar ve hata mesajları, kullanıcıya yönlendirme ve bilgilendirme sağlar.
 
-# Code Description:
-# This code is a Streamlit application that allows users to upload a text file and perform a similarity search by entering a query.
 
-# The code includes TextProcessor and VectorSearch classes. The TextProcessor class is used to process the uploaded text file and write it to a temporary file. The VectorSearch class takes the processed text and uses OpenAI Embeddings to perform a similarity search based on a specific query.
-
-# The code also provides a Streamlit interface. Users can upload a text file and enter a query. When they click the "Search" button, a similarity search is performed with their queries and the results are displayed on the screen.
-
-# The code provides explanations and error messages for usage to guide and inform the user.
 
 
 class TextProcessor:
