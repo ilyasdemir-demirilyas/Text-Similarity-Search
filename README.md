@@ -9,14 +9,15 @@ This application is a Streamlit-based tool that allows users to perform a simila
 
 To install the required dependencies, you can use pip and the provided requirements.txt file:
 
+```bash
 pip install -r requirements.txt
-
+```
 
 #### Requirements
 
 Here are the required packages and their versions:
 
-```
+```bash
 streamlit==1.34.0
 langchain-community==0.0.36
 langchain-openai==0.1.6
