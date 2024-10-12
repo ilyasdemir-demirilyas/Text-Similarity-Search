@@ -1,4 +1,4 @@
-```markdown
+
 # Text-Similarity-Search
 
 ## Text Similarity Search Application
